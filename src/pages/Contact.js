@@ -12,6 +12,8 @@ class Contact extends Component{
                     <div className="itemcon">
                         <div className="contentcon">
                             <div className="self-image">
+                          
+                            </div>
                             <div className="data-self">
                             <h3 >Adisak&nbsp;&nbsp;Leapon&nbsp;(Dew)</h3>
                             <br/> 
@@ -20,9 +22,7 @@ class Contact extends Component{
                             <a href={port} target="_blank" download className="border">Resume</a>
     
                             </div>
-                            </div>
-                           
-                           
+
                         </div>
 
                     </div>
